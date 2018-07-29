@@ -1,0 +1,49 @@
+title: Bach Le | Carnegie Mellon University
+author: GitHub User
+email: bachldx@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  I am Xuan Bach D. Le (Le Dinh Xuan Bach). I work on automated program repair, both semantics and heuristic (search)-based repair.
+
+# social links
+#twitter_username: jekyllrb
+github_username:  xuanbachle
+#rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: xuanbachdle
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+google_analytics: UA-90026881-2
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - index.md
+ - publications/publications.md
+ - videos/videos.md
+ - contact/contact.md
+
+# Build settings
+markdown: kramdown
+theme: personal-website-theme
+exclude:
+  - Gemfile
+  - Gemfile.lock
