@@ -21,8 +21,8 @@ title: Home
 
 Welcome to my homepage. My name is Bach (LE, Dinh Xuan Bach).  
 ようこそ！私はバイックです。なんかドイツらしい名前だね（笑）
-                                       
-My [CV](https://drive.google.com/file/d/0B0IKIOXrT2Q4UFhRZHh6a2c3dkk/view) is available [here](https://drive.google.com/file/d/0B0IKIOXrT2Q4UFhRZHh6a2c3dkk/view),  with [Google Scholar](https://scholar.google.com.sg/citations?user=AUJWzE8AAAAJ&hl=en), [DBLP](http://dblp.uni-trier.de/pers/hd/l/Le:Xuan=Bach_D=).
+
+<span style="color:blue" style="text-decoration:underline">**Links:**</span> [CV](https://drive.google.com/file/d/1NUitn1oAPOwn2fk37C7kzZlJ1ugai_Vu/view?usp=sharing), [Teaching Statement](https://drive.google.com/open?id=1vgt7uS5PZusMWe_kegv30pfC2nN63Pz-), [Research Statement](https://drive.google.com/file/d/1oCC38Bq8KpVc0BMfDG_4jqf2gPmvsRvf/view?usp=sharing), [Job talk Slides](https://drive.google.com/file/d/1P5xBbFwdwFluN9MfYshlBRBXu-Lb6tOl/view?usp=sharing), [Google Scholar](https://scholar.google.com.sg/citations?user=AUJWzE8AAAAJ&hl=en), and [DBLP](http://dblp.uni-trier.de/pers/hd/l/Le:Xuan=Bach_D=). 
 
 <span style="color:blue" style="text-decoration:underline">**Research Interests:**</span> Software Mining, Analysis, Repair, Synthesis and Verification.
 
@@ -30,7 +30,7 @@ My [CV](https://drive.google.com/file/d/0B0IKIOXrT2Q4UFhRZHh6a2c3dkk/view) is av
 
 PostDoc, **Carnegie Mellon University, Silicon Valley**, June'18 - Present  
 Supported by DARPA STAC program, [ISSTAC](http://sv.cmu.edu/research/cybersecurity/ISSTAC.html) project.  
-Topic: Software Security, Advisor: Associate Research Prof. [Corina Pasareanu](https://scholar.google.com/citations?user=pwIuivQAAAAJ&hl=en)
+Topic: Software Security, Advisor: ACM Dishtinguished Scientist & Associate Prof. [Corina Pasareanu](https://scholar.google.com/citations?user=pwIuivQAAAAJ&hl=en)
  
 PhD Candidate, **Singapore Management University, Singapore**, Jan'14 - May'18  
 Supported by [LARC-Carnegie Mellon University](https://larc.smu.edu.sg/) collaboration program.  
@@ -67,10 +67,18 @@ Topic: Building a social network application, Host:  Prof. Toyohide WATANABE
   This resulted in a full research paper on automatic repair, now under submission. 
 
 <span style="color:blue" style="text-decoration:underline">**Academic Services:**</span> 
-
+* Committee Member:
+	- 2019: 
+		The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation Committee -
+		International Workshop on Intelligent Bug Fixing (IBF)
 * Reviewer: 
-	- 2018: Journal of Systems and Software
-	- 2017: Empirical Software Engineering Jounal
+	- 2018: 
+		Journal of Systems and Software (JSS) -
+		Transactions on Software Engineering and Methodology (TOSEM) -
+		Software Testing, Verification and Reliability (STVR) -
+		Information and Software Technology (IST) -
+		Journal of Computer and Communications (JCC)
+	- 2017: Empirical Software Engineering Journal (EmSE)
 
 * Sub-reviewer:
 	- 2018: SCAM, ESEC/FSE (Tool Track)
