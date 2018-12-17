@@ -8,7 +8,7 @@ For conference ranking, please refer to: [Core](http://portal.core.edu.au/conf-r
 <span style="text-decoration:underline">**Keywords:**</span> Program Repair, Symbolic Execution, Program Synthesis, Separation Logic, Specification Mining, Defect Categorization, Machine Learning & Data Mining Application.
 
 <details><summary><span style="text-decoration:underline"><b>Acknowledgements:</b></span></summary>
-<p>
+<p> 
 
 All my works/projects here in SMU have been supported by the Singapore Ministry of Education. I am particularly supported by Living Analytics Research Center (LARC), Singapore Management University.  We are also grateful to various collaborators at various institutions/universities such as National University of Singapore, Stellenborsch University, Carnegie Mellon University, and so on.
 
@@ -16,18 +16,24 @@ All my works/projects here in SMU have been supported by the Singapore Ministry 
 </details>
 
 <span style="text-decoration:underline">**Recent/Unpublished work:**</span>
-- **On Reliability of Patch Correctness Assessment**, <u><u>Xuan-Bach D. Le</u></u>, Lingfeng Bao, David Lo, Xia Xin, and Shanping Li
 - **Benchmarking Program Repair Tools with Regression Errors**, Siyu Xie, G. Arthar, <u>Xuan-Bach D. Le</u>, Lingfeng Bao, Tien-Duy BL, and David Lo (The first author was under my co-supervision)
 - **Smart Contract Development: Challenges and Opportunities**, Z. Weiqin, S. K. Pavneet, <u>Xuan-Bach D. Le</u>, F. Yang, L. David and Zhenyu Chen
 
 <span style="text-decoration:underline">**Publications:**</span> ([Google scholar](https://scholar.google.com.sg/citations?user=AUJWzE8AAAAJ&hl=en), [dblp](http://dblp.uni-trier.de/pers/hd/l/Le:Xuan=Bach_D=), [research gate](https://www.researchgate.net/profile/Xuan_Bach_D_Le/contributions))  
-<span style="color:red">**\[2017\]**</span>  
-<span style="color:blue">**\[EmSE-ICSE'18\]**</span>
-**Overfitting in Semantics-Based Automated Program Repair** (\*)  
+
+<span style="color:red">**\[2019\]**</span>  
+<span style="color:blue">**\[ICSE\]**</span> **On Reliability of Patch Correctness Assessment**   
+<u>Xuan-Bach D. Le</u>, Lingfeng Bao, David Lo, Xia Xin, Shanping Li, and Corina Pasareanu  
+41st ACM/IEEE International Conference on Software Engineering (ICSE), 2019, Research Track  
+(\*) Empirically study popular patch assessment methodologies to guide evaluations of program repair techniques.  
+
+<span style="color:red">**\[2018\]**</span>  
+<span style="color:blue">**\[EmSE-ICSE\]**</span> **Overfitting in Semantics-Based Automated Program Repair** (\*)  
 <u>Xuan-Bach D. Le</u>, Ferdian Thung, David Lo, Claire Le Goues  
 Empirical Software Engineering Journal, Invited. Accepted at Journal First Track at ICSE 2018 [pdf](https://goo.gl/Pe9FfQ)  
 (\*) Empirically study various synthesis techiques, e.g., syntax-guided synthesis, in the program repair context.
 
+<span style="color:red">**\[2017\]**</span>  
 <span style="color:blue">**\[ESEC/FSE\]**</span> **S3: Syntax- and Semantic-Guided Repair Synthesis via Programming by Examples**  
 <u>Xuan Bach D. Le</u>, Duc Hiep Chu, David Lo, Claire Le Goues, and Willem Visser.  
 11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, 2017, Research Track [pdf](https://goo.gl/bGbSZn)

@@ -20,7 +20,7 @@ title: Home
 > “Curiosity is the wick in the candle of learning.“  - William Arthur Ward
 
 Welcome to my homepage. My name is Bach (LE, Dinh Xuan Bach).  
-ようこそ！私はバイックです。なんかドイツらしい名前だね（笑）
+ようこそ！私はバイックです。なんかドイツらしい名前だね（笑） 
 
 <span style="color:blue" style="text-decoration:underline">**Links:**</span> [CV](https://drive.google.com/file/d/1NUitn1oAPOwn2fk37C7kzZlJ1ugai_Vu/view?usp=sharing), [Teaching Statement](https://drive.google.com/open?id=1vgt7uS5PZusMWe_kegv30pfC2nN63Pz-), [Research Statement](https://drive.google.com/file/d/1oCC38Bq8KpVc0BMfDG_4jqf2gPmvsRvf/view?usp=sharing), [Job talk Slides](https://drive.google.com/file/d/1P5xBbFwdwFluN9MfYshlBRBXu-Lb6tOl/view?usp=sharing), [Google Scholar](https://scholar.google.com.sg/citations?user=AUJWzE8AAAAJ&hl=en), and [DBLP](http://dblp.uni-trier.de/pers/hd/l/Le:Xuan=Bach_D=). 
 
